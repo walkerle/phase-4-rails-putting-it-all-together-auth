@@ -105,6 +105,7 @@ Handle sign up by implementing a `POST /signup` route. It should:
 > responses need to be formatted in a way that accommodates multiple errors.
 
 ### Auto-Login Feature
+#### NOTE: "Login Feature" must be complete to pass tests
 
 Users can log into our app! 🎉 But we want them to **stay** logged in when they
 refresh the page, or navigate back to our site from somewhere else.
